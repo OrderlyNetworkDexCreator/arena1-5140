@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Developed By L-LONG Labs, The Brand-New Decentralized Trading Platform Aggregator",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Leaderboard,Swap,Rewards,Portfolio",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Rewards,Portfolio",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
